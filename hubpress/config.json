@@ -6,7 +6,7 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://stephen-bunn.github.io/blog",
@@ -25,14 +25,14 @@
     ]
   },
   "site": {
-    "title": "",
+    "title": "Stephen Sucks @ Blogging",
     "description": "",
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
+    "postsPerPage": "25",
+    "googleAnalytics": "UA-110798724-1",
+    "disqus": "stephen-bunn-blog.disqus.com"
   },
   "socialnetwork": {
     "email": "stephen@bunn.io",
