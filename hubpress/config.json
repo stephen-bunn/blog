@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://stephen-bunn.github.io/blog",
     "hubpress": "https://stephen-bunn.github.io/blog",
-    "theme": "//stephen-bunn.github.io/blog/themes/casper",
+    "theme": "//stephen-bunn.github.io/blog/themes/uno",
     "images": "https://stephen-bunn.github.io/blog/images"
   },
   "initialisationConfigComponent": {
@@ -28,7 +28,7 @@
     "title": "Stephen Sucks @ Blogging",
     "description": "",
     "logo": "",
-    "cover": "",
+    "cover": "https://preview.ibb.co/kM7Eub/Submit_How_to_use_Picky_Wallpapers_Facebook_Twitter_RSS.jpg",
     "delay": "",
     "postsPerPage": "25",
     "googleAnalytics": "UA-110798724-1",
