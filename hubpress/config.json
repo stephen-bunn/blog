@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://stephen-bunn.github.io/hubpress.io",
+    "hubpress": "https://stephen-bunn.github.io/hubpress.io",
+    "theme": "//stephen-bunn.github.io/hubpress.io/themes/casper",
+    "images": "https://stephen-bunn.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
