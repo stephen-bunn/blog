@@ -8,10 +8,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://stephen-bunn.github.io/hubpress.io",
-    "hubpress": "https://stephen-bunn.github.io/hubpress.io",
-    "theme": "//stephen-bunn.github.io/hubpress.io/themes/casper",
-    "images": "https://stephen-bunn.github.io/hubpress.io/images"
+    "site": "https://stephen-bunn.github.io/blog",
+    "hubpress": "https://stephen-bunn.github.io/blog",
+    "theme": "//stephen-bunn.github.io/blog/themes/casper",
+    "images": "https://stephen-bunn.github.io/blog/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
