@@ -2,7 +2,8 @@
   "meta": {
     "username": "stephen-bunn",
     "repositoryName": "blog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "https://github.com/stephen-bunn",
+    "twitter": "https://twitter.com/stephenbunnio",
+    "facebook": "https://www.facebook.com/stephen.bunn.io",
+    "googleplus": "https://plus.google.com/u/0/101557381375105246565",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/stephen-bunn/",
+    "stackoverflow": "https://stackoverflow.com/users/7828560/stephen-bunn"
   }
 }
